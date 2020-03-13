@@ -6,3 +6,11 @@
 /MobileT9/.vs/MobileT9
 /MobileT9/MobileT9/obj
 /MobileT9/MobileT9/bin/Debug/netcoreapp3.1
+/MobileT9/Core/bin/Debug/netstandard2.0
+/MobileT9/Core/obj
+/MobileT9/Implementation/bin/Debug/netstandard2.0
+/MobileT9/Implementation/obj
+/MobileT9/MobileT9.Tests/bin/Debug/netcoreapp3.1
+/MobileT9/MobileT9.Tests/obj
+/MobileT9/NUnitMobile9.Tests/bin/Debug/netcoreapp3.1
+/MobileT9/NUnitMobile9.Tests/obj
