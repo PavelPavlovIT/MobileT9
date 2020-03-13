@@ -1,10 +1,11 @@
 ﻿using Core;
+using Implementation;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Implementation
+namespace NUnitMobile9.Tests
 {
     class StringProviderTests
     {
